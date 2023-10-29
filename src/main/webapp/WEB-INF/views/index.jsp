@@ -8,5 +8,6 @@
     <h1>Hi, there (updated by chanos)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.2</h3>
+    <p>Using PollSCM</p>
 </body>
 </html>
